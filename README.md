@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
+
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-%23007ACC.svg?&style=flat&logo=typescript&logoColor=white)&nbsp;\
 ![Git](https://img.shields.io/badge/GIT-%23F05033.svg?&style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
-![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MARIADB-4479A1.svg?&style=flat&logo=mariadb&logoColor=white)
@@ -35,11 +35,12 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
 ![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
-</details>
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
-- 🌱 I’m currently learning ...
+<summary><b> 🌱 I’m currently learning ...</b></summary>
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
+![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
+
 - 📫 How to reach me: ...
 
 
