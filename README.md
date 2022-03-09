@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on ...
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
