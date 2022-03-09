@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-  <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
-  <br/>
+<summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
+<br/>
 
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
@@ -38,6 +38,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 <summary><b> 🌱 I’m currently learning ...</b></summary>
+<br/>
+
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 
