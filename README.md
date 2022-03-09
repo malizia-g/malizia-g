@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on ...
--<details>
+<details>
   <summary><b>:computer: &nbsp;Main tech knowledge</b></summary>
   <br/>
 
@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 ![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?&style=flat&logo=visual-studio-code)&nbsp;
 ![Clean Architecture](https://img.shields.io/badge/CLEAN%20ARCHITECTURE-6DB33F.svg?&style=flat&logoColor=white)&nbsp;
 ![MVVM Architecture](https://img.shields.io/badge/MVVM-888888.svg?&style=flat&logoColor=white)&nbsp;\
+</details>
 
 - 🌱 I’m currently learning ...
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED.svg?&style=flat&logo=docker&logoColor=white)&nbsp;
