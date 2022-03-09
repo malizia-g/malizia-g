@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/GITLAB-%23181717.svg?&style=flat&logo=gitlab&logoColor=white)&nbsp;
 ![Postgres](https://img.shields.io/badge/POSTGRES-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
 
-- 📫 How to reach me: ...
+<!-- 📫 How to reach me: ... -->
 
 
 <summary>⚡️About my coding life</summary>
